@@ -4,6 +4,8 @@ body {
 }
 
 #board {
-    /* background-color: skyblue; */
+    width: 1200px; /* Increased width */
+    height: 800px; /* Increased height */
     background-image: url("./flappybirdbg.png");
+    background-size: cover;
 }
